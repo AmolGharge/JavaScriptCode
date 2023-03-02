@@ -1,6 +1,7 @@
 
 function FizzBuzz (num) 
 {
+    
     for (let i = 1; i <= num; i++) 
     {
         let out = '';
@@ -12,15 +13,10 @@ function FizzBuzz (num)
 
         // console.log(`Value of ${i} is` + " " + out || i );
 
-
     }
 }
 
 FizzBuzz(15);
-
-
-
-
 
 
 
